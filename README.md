@@ -22,6 +22,11 @@ In addition to the previous projects
   9. Apply shadow if shadow coordinates depth value greater the shadow map depth value.
   10. Draw light source at the coordinates of the light source
 
+
+https://user-images.githubusercontent.com/16291248/211943285-cbbfbde8-939e-446c-b05b-560f0eb09c00.mp4
+
+
+
 How to use your implementation
 
 1. Compile the texture.cpp file, cyCodeBase must be present in the include path
